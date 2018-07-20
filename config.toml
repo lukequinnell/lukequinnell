@@ -1,0 +1,33 @@
+baseURL = "http://lukequinnell.com/"
+languageCode = "en-gb"
+title = "Luke Quinnell"
+theme = "resume"
+
+[params]
+    firstName = "Luke"
+    lastName = "Quinnell"
+    address1 = "Cardiff, Wales"
+    address2 = "United Kingdom"
+    phone = ""
+    profileImage = "img/lukequinnell.png"
+    email = "luke@lukequinnell.com"
+    description = "A self-motivated I.T. enthusiast with a proven ability to manage and complete projects to the highest standard, with a meticulous attention to detail and within agreed deadlines. Release management, team building and client communication skills are used on a day-to-day basis within my current role as a Software Development Manager and are very much enjoyed."
+    favicon = "img/favicon.ico"
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/luke-quinnell-20601277/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/lukequinnell/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/lukequinnell/"

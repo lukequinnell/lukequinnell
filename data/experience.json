@@ -1,0 +1,38 @@
+[
+  {
+    "role":"Software Development Manager",
+    "company":"Bartholomew Hawkins, Cardiff",
+    "summary":"Software Development Manager",
+    "range":"October 2016 to present"
+  },
+  {
+    "role":"Software Developer",
+    "company":"Bartholomew Hawkins, Cardiff",
+    "summary":"Software Developer",
+    "range":"September 2015 to October 2016"
+  },
+  {
+    "role":"Principal Developer",
+    "company":"Box UK, Cardiff",
+    "summary":"Project lead on a second British Horse Racing Authority project that involves delivering industry-changing applications for the client.",
+    "range":"January 2014 to September 2015"
+  },
+  {
+    "role":"Senior Developer",
+    "company":"Box UK, Cardiff",
+    "summary":"Project lead on UNISON’s migration over to Box UK’s CMS. Main point of contact for the client and responsible for moving the project from QA to UAT and finally to production.",
+    "range":"December 2012 January 2014"
+  },
+  {
+    "role":"Developer",
+    "company":"Box UK, Cardiff",
+    "summary":"This role involved maintaining Box UK’s high-level XML-based Content Management System (Amaxus), which has been developed at an enterprise level. The CMS has been supporting clients such as Investec, British Energy, Royal Navy and The National Gallery.",
+    "range":"September 2007 to December 2012"
+  },
+  {
+    "role":"Developer",
+    "company":"UK Digital Solutions, Cardiff",
+    "summary":"The company approached me at the end of my university course. The position required skills to produce comprehensive e-commerce, traditional commerce and online/offline marketing-related solutions.",
+    "range":"June 2006 to September 2007"
+  }
+]

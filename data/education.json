@@ -1,0 +1,29 @@
+[
+  {
+    "school":"University of Glamorgan",
+    "degree":"BSc (Hons) Degree in Internet Computing 1st class",
+    "major":"Advanced Internet Development, Database Development, E-Commerce Systems & Strategy, E-Learning & Assessment, Interactive Multimedia & Hypermedia, Research Methods, Level 3 Project",
+    "range":"Oct 2005 to June 2006"
+  },
+  {
+    "school":"University of Glamorgan",
+    "degree":"Cisco Qualifications – Completion of CCNA 1 & 2 courses",
+    "range":"Feb 2005 to June 2005"
+  },
+  {
+    "school":"University of Glamorgan",
+    "degree":"HND in Computing (Internet Development)",
+    "major":"Information & Communications Tech ICT, Problem Solving & Professional Development, Website Development, Project, Event Driven Programming, Object Oriented Analysis, Introduction to Graphics and Animation",
+    "range":"Sept 2002 to June 2005"
+  },
+  {
+    "school":"Coleg Glan Hafren",
+    "degree":"BTEC National Diploma in Computing (Software Development)",
+    "range":"Jun 2000 to Feb 2002"
+  },
+  {
+    "school":"Coleg Glan Hafren",
+    "degree":"BTEC First Diploma in Computing (Information Technology Applications)",
+    "range":"Sept 1998 to June 1999"
+  }
+]

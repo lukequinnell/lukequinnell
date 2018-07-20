@@ -1,0 +1,19 @@
+[
+  {
+    "grouping":"Architecture",
+    "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+  },{
+  "grouping":"Languages, Operating Systems & Tools",
+  "skills":[ "PHP","Doctrine","Node.js","jQuery","JavaScript","Linux","Travis","GIT","bash"]
+},
+  {
+    "grouping":"Platform Development & Administration",
+    "skills":[ "GitHub","Bitbucket","OpenShift","Vagrant","Ansible","NGINX","Symfony","MySQL","Atlassian","Wordpress"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+    "skills":[
+      {"name":"AWS","link":"https://aws.amazon.com"}
+    ]
+  }
+]
