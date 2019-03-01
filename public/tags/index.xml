@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Luke Quinnell</title>
-    <link>http://lukequinnell.com/tags/</link>
+    <link>https://lukequinnell.com/tags/</link>
     <description>Recent content in Tags on Luke Quinnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://lukequinnell.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lukequinnell.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
